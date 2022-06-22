@@ -55,7 +55,7 @@ ROOT_URLCONF = 'onyekachinwaogu.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'C:\Users\Henry Arnold\Desktop\django-curd\onyekachinwaogu\blog\Template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
